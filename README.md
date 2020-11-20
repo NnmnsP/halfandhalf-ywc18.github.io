@@ -1,2 +1,5 @@
 # halfandhalf-ywc18.github.io
-YWC18 homework for interviewing round
+Homework for YWC18 interviewing round
+
+# โครงการคนละครึ่งจากทางภาครัฐ
+ค้นหา ชื่อ ร้านอาหาร และเครื่องดื่ม ร้านธงฟ้า ร้านค้า OTOP และสินค้าทั่วไป
